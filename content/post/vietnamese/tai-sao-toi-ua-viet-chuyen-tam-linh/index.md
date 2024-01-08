@@ -1,21 +1,22 @@
 +++
-author = "Quang Nguyen"
+author = "Hoang Manh Hai"
 title = "Tại sao tôi ưa viết chuyện tâm linh"
-date = "2023-01-07"
+date = "2024-01-07"
 description = "Nhiều người không thích, thậm chí cho rằng tôi đã làm lây lan sự bi quan cho bạn đọc khi thấy rất nhiều bài viết của tôi chỉ ra những điểm tiêu cực trong tính cách con người, trong xã hội mình đang sống và đôi lúc tôi “nói xấu” cả nhân loại nữa."
 tags = [
     "nhan-sinh-quan",
     "tam-linh",
-]
-categories = [
     "tieng-viet",
     "hoc-lam-nguoi",
+]
+categories = [
+    "life"
 ]
 series = ["Repost"]
 toc = false
 +++
 
-Tại sao tôi ưa viết chuyện tâm linh
+Bài viết copy từ facebook của thầy Hoàng Mạnh Hải: [link](https://www.facebook.com/manhhai.hoang.1/posts/pfbid02MNB1ZvSJRwcM8UqqFFofbp2K36XbZdACSUzocSrAWcdF8K2Ti5vCf5EiwvqvCr8dl?__cft__[0]=AZV_LypUbWjBDeOZ1RweBIk-IZuWiYKXeAyBtvNPgKNRra9gg8DoJjAy4rEk1L7qe8RsE5hx9rRCXR_5XUFaW-nzb8CrIjjJxqtNlETSzj7Y3DfYSGYMApGcUd6yNjki-Ek&__tn__=%2CO%2CP-R)
 
 Nhiều người không thích, thậm chí cho rằng tôi đã làm lây lan sự bi quan cho bạn đọc khi thấy rất nhiều bài viết của tôi chỉ ra những điểm tiêu cực trong tính cách con người, trong xã hội mình đang sống và đôi lúc tôi “nói xấu” cả nhân loại nữa. Thực ra, tôi chỉ đang cố gắng níu giữ một phần nhỏ định nghĩa của giới trí thức mà thôi: “𝑇𝑟𝑖́ 𝑡ℎ𝑢̛́𝑐 𝑙𝑎̀ 𝑛𝑔𝑢̛𝑜̛̀𝑖 𝑐𝑜́ 𝑘𝑖𝑒̂́𝑛 𝑡ℎ𝑢̛́𝑐 𝑡𝑟𝑜𝑛𝑔 𝑥𝑎̃ ℎ𝑜̣̂𝑖 𝑣𝑎̀ 𝑏𝑖𝑒̂́𝑡 𝑐𝑎̂́𝑡 𝑡𝑖𝑒̂́𝑛𝑔 𝑛𝑜́𝑖 𝑡ℎ𝑎𝑦 𝑐ℎ𝑜 𝑛ℎ𝑢̛̃𝑛𝑔 𝑛𝑔𝑢̛𝑜̛̀𝑖 𝑖́𝑡 ℎ𝑖𝑒̂̉𝑢 𝑏𝑖𝑒̂́𝑡 ℎ𝑜̛𝑛 ℎ𝑜̣”. Trừ khi quyết định rút lui không làm một người trí thức nữa, tôi sẽ không chọn sống kiểu mũ ni che tai, nhắm mắt làm ngơ trước cảnh khổ của con người.  
 
@@ -37,4 +38,4 @@ Với tôi, câu “Chết không phải là hết” nếu so với câu “Hai
 
 Tóm lại, các bạn hãy sống một cuộc đời có giá trị, cho bây giờ và cho cả đời sau. Đừng ham thành công theo nghĩa tiền bạc nữa. Thực ra là đ𝑢̛̀𝑛𝑔 ℎ𝑎𝑚 𝑡ℎ𝑎̀𝑛ℎ 𝑐𝑜̂𝑛𝑔 𝑡ℎ𝑒𝑜 𝑏𝑎̂́𝑡 𝑘𝑦̀ 𝑛𝑔ℎ𝑖̃𝑎 𝑛𝑎̀𝑜. 𝐿𝑎̀ 𝑑𝑎𝑛ℎ, 𝑙𝑎̀ 𝑙𝑜̛̣𝑖 ℎ𝑎𝑦 𝑞𝑢𝑦𝑒̂̀𝑛 đ𝑒̂̀𝑢 𝑝ℎ𝑢̀ 𝑑𝑢…
 
-![Hình từ Internet](./images/quote.jpg) "Hình từ Internet"
+![Hình từ Internet](./images/quote.jpg)
