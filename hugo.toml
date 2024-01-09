@@ -1,6 +1,5 @@
 baseURL = "https://nngocquang0698vn.github.io/blogging"
 title = "Quang Nguyen's Personal Notes"
-suttile = "Đây là trang web nho nhỏ của Nguyễn Ngọc Quang ^^"
 author = "Quang Nguyen"
 copyright = "Quang Nguyen"
 paginate = 10
@@ -11,6 +10,7 @@ theme = "tailwind"
   # dir name of your blog content (default is `content/posts`).
   # the list of set content will show up on your index page (baseurl).
   contentTypeName = "post"
+  suttile = "Đây là trang web nho nhỏ của Nguyễn Ngọc Quang ^^"
 
   [params.header]
     logo = "author.jpg"
