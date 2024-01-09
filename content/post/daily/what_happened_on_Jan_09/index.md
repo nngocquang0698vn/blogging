@@ -1,6 +1,6 @@
 +++
 author = "Quang Nguyen"
-title = "'Thong Mai' tree and Singleton Bean in Spring should be stateless"
+title = "'Thong Mai' Tree and Singleton Bean in Spring Should Be Stateless"
 date = "2024-01-09"
 description = "I've traced and tried to figure out the weird behavior from the Spring logs... It turned out that the logging code is wrong due to things like stateful singleton bean in Spring!... Also, I would like to introduce a 'Thong Mai' concept :D"
 tags = [
