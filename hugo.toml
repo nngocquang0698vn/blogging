@@ -1,5 +1,6 @@
 baseURL = "https://nngocquang0698vn.github.io/blogging"
 title = "Quang Nguyen's Personal Notes"
+suttile = "Đây là trang web nho nhỏ của Nguyễn Ngọc Quang ^^"
 author = "Quang Nguyen"
 copyright = "Quang Nguyen"
 paginate = 10
