@@ -1,7 +1,7 @@
 +++
 author = "Quang Nguyen"
 title = "My YEP 3 years ago"
-date = "2024-01-12"
+date = "2024-01-13"
 description = "One picture worths thousand words... Back in the days, I am still yo"
 tags = [
     "memories",
