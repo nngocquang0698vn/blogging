@@ -1,7 +1,7 @@
 +++
 author = "Quang Nguyen"
 title = "The fourth week of 2024: Kafka and local k8s cluster with minikube"
-date = "2024-01-12"
+date = "2024-01-21"
 description = "I've learned a lot in this week... From a local setup with podman-compose.yaml to k8s with minikube and helm chart"
 tags = [
     "technical",
